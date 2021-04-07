@@ -1,7 +1,7 @@
 ### Hi there, I'm Gabriel 👋
 
 - 🔭 I’m currently working on [42's](https://www.42sp.org.br/) Projects
-- 🌱 I’m currently learning everything 😄 but mainly C, Python and SQL
+- 🌱 I’m currently learning everything 😄 but mainly C, C#, .NET, Python and SQL
 - 👯 I’m looking to collaborate on anything 😄
 - 😄 Pronouns: He/Him
 - 🏠 Sao Paulo, SP, Brazil
