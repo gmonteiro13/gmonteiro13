@@ -1,11 +1,11 @@
 ### Hi there, I'm Gabriel 👋
 
 - 🔭 I’m currently working on [42's](https://www.42sp.org.br/) Projects
-- 🌱 I’m currently learning everything 😄 but mainly C, C#, .NET, Python and SQL
+- 🌱 I’m currently learning HTML, CSS and JS
 - 👯 I’m looking to collaborate on anything 😄
 - 😄 Pronouns: He/Him
 - 🏠 Sao Paulo, SP, Brazil
-- 🥅 2021 goals: Work on as many Python projects as possible
+- 🥅 2021 goals: Work on as many front end projects as possible
 - ⚡ Fun fact: I love to play hard (aka Kaizo) Super Mario World romhacks!
 
 ### Get in touch with me
