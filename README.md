@@ -1,12 +1,7 @@
 ### Hi there, I'm Gabriel 👋
 
-- 🔭 I’m currently working on Front-End Projects
-- 🌱 I’m currently learning... everything!
-- 👯 I’m looking to collaborate on anything 😄
-- 😄 Pronouns: He/Him
-- 🏠 Sao Paulo, SP, Brazil
-- 🥅 2021 goals: Work on as many Front-End projects as possible
-- ⚡ Fun fact: I love to play hard (aka Kaizo) Super Mario World romhacks!
+My goal for 2022 is to work on as many projects as possible, using different techs.
+You may think that I'm not focused, but I no longer limit myself when it comes to knowledge. Learning has been my passion since I started remembering stuff and I hope to keep it that way! :)
 
 ### Get in touch with me
 
