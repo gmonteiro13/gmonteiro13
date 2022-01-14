@@ -3,6 +3,8 @@
 My goal for 2022 is to work on as many projects as possible, using different techs.
 You may think that I'm not focused, but I no longer limit myself when it comes to knowledge. Learning has been my passion since I started remembering stuff and I hope to keep it that way! :)
 
+I'm currently working on: Instagram Clone using Flutter and Firebase
+
 ### Get in touch with me
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gscmonteiro@gmail.com "Email")
