@@ -3,7 +3,7 @@
 My goal for 2022 is to work on as many projects as possible, using different techs.
 You may think that I'm not focused, but I no longer limit myself when it comes to knowledge. Learning has been my passion since I started remembering stuff and I hope to keep it that way! :)
 
-I'm currently working on: Instagram Clone using Flutter and Firebase // Netflix Clone using Django and Tailwind // React Projects
+I'm currently working on: Java / Kotlin
 
 ### Get in touch with me
 
