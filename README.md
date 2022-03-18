@@ -1,9 +1,9 @@
 ### Hi there, I'm Gabriel 👋
 
 My goal for 2022 is to work on as many projects as possible, using different techs.
-You may think that I'm not focused, but I no longer limit myself when it comes to knowledge. Learning has been my passion since I started remembering stuff and I hope to keep it that way! :)
+Learning has been my passion since I started remembering stuff and I hope to keep it that way! :)
 
-I'm currently working on: Java / Kotlin
+I'm currently working on: JavaScript
 
 ### Get in touch with me
 
