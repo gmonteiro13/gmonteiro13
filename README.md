@@ -1,7 +1,7 @@
 ### Hi there, I'm Gabriel 👋
 
-My goal for 2022 is to work on as many projects as possible, using different techs.
-Learning has been my passion since I started remembering stuff and I hope to keep it that way! :)
+My goal for 2024 is to work on projects using Python, JavaScript and Django.
+Learning has been my passion since I started remembering stuff and I intend to keep it that way! :)
 
 I'm currently working on: JavaScript
 
@@ -12,9 +12,5 @@ I'm currently working on: JavaScript
 
 ### Skills
 
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.learn-c.org/)
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
-[![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
+[![JavaScript](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
