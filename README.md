@@ -1,6 +1,6 @@
 ### Hello there! 👋 I'm Gabriel
 
-A passionate aspiring web developer with a keen interest in both front-end and back-end technologies. My journey into the world of web development began with HTML, JavaScript, and CSS. Now, I'm excited to dive deeper into the world of back-end development, with a focus on JavaScript, Python, Django, and SQL.
+A aspiring back-end developer with an interest in JavaScript and Python. My journey into the world of development began with HTML, JavaScript, and CSS. Now, I'm excited to dive deeper into the world of back-end development, with a focus on JavaScript, Python, Django, and SQL.
 
 ### Get in touch with me
 
