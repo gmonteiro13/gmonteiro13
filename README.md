@@ -1,6 +1,6 @@
 ### Hello there! 👋 I'm Gabriel
 
-An aspiring back-end developer with an interest in Python. My journey into the world of development began with HTML, JavaScript, and CSS. Now, I'm excited to dive deeper into the world of back-end development.
+An aspiring back-end developer with an interest in Python. My journey into the world of development began with C, HTML, JavaScript, and CSS. Now, I'm excited to dive deeper into the world of back-end development.
 ### Get in touch with me
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gscmonteiro@gmail.com "Email")
